@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/classes/
+
+# Java
+*.class
+*.jar
+!build/*.jar
+target/
+
+# Data files (too large for Git)
+data/generated/*.csv
+data/raw/
+
+# Docker volumes
+hadoop_*/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Sensitive
+*.env
+!hadoop.env
