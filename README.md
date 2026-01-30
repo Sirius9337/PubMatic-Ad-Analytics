@@ -24,6 +24,38 @@
 ![Kafka Streaming](screenshots/kafka_streaming.png)
 ---
 
+## Interactive Tableau Dashboard
+
+**[🔗 View Live Interactive Dashboard](https://public.tableau.com/app/profile/sakshi.chavan1316/viz/PubMaticAdAnalyticsPlatform/PubMaticAnalytics-ExecutiveDashboard)**
+
+### Executive Dashboard Overview
+
+![Tableau Dashboard](screenshots/tableau_executive_dashboard.png)
+
+### Dashboard Features:
+
+- **Top Publishers Analysis**: Top 15 publishers by revenue with visual ranking
+- **Device Performance Breakdown**: Revenue distribution across Mobile (46%), Desktop (46%), Tablet (8%)
+- **Publisher Performance Matrix**: Scatter plot showing CTR vs Revenue correlation with trend analysis
+- **Campaign ROI Tracking**: Distribution and top performers
+- **Fraud Detection**: Analysis of suspicious user patterns by type
+
+### Interactive Capabilities:
+- Filter by device type (Mobile, Desktop, Tablet)
+- Drill down by revenue range
+- Filter by impression volume
+- Dynamic conversion tracking
+- Cross-filtering across all visualizations
+
+### Key Insights Discovered:
+- Desktop and Mobile generate nearly equal revenue (45.6% vs 46.1%)
+- Strong positive correlation between CTR and Revenue
+- Top 15 publishers clearly visualized for strategic focus
+- Tablet represents 8.3% of revenue - optimization opportunity
+
+**Technology**: Tableau Public | **Data Source**: Hadoop MapReduce Analytics | **Records**: 100,000+ impressions
+
+
 ## **Project Overview**
 
 This project simulates a **Supply-Side Platform (SSP)** analytics pipeline similar to PubMatic's real-world infrastructure. It processes 100,000+ real-time ad impressions to provide actionable insights for publisher monetization, fraud detection, and campaign optimization.
